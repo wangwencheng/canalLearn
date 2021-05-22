@@ -1,0 +1,5 @@
+[cloud_test]
+url = jdbc:mysql://127.0.0.1:3300/cloud
+username = root
+password = root
+driverClassName = com.mysql.jdbc.Driver
